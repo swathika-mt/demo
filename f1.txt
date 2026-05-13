@@ -1,1 +1,2 @@
 hey we are learning git and github
+its day two for praticing for git commands
